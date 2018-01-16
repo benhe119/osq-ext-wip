@@ -1,8 +1,6 @@
 /****************************************************************************
 * Copyright (C) 2017 by PolyLogyx, LLC                                      *
 *                                                                           *
-* This file is part of PolyLogx Windows Extension for osquery.              *
-* 
 * This file implements a table called win_epp_table which basically queries *
 * for end point security products on the system and displays their name,    *
 * state, status etc. When run from a centralized console, it can be useful  *
