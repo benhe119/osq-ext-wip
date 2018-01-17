@@ -16,17 +16,11 @@ The table provides the state and status of the endpoint protection software runn
 osquery> select * from win_epp_table;
 
 +--------------+------------------+---------------+--------------------+
-
 | product_type | product_name     | product_state | product_signatures |
-
 +--------------+------------------+---------------+--------------------+
-
 | Anti-Virus   | Windows Defender | On            | Up-to-date         |
-
 | Anti-Spyware | Windows Defender | On            | Up-to-date         |
-
 | Firewall     | Windows Firewall | On            | Not Applicable     |
-
 +--------------+------------------+---------------+--------------------+
 
 osquery>
