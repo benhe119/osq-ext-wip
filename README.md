@@ -24,3 +24,5 @@ osquery> select * from win_epp_table;
 osquery>
 
 It has been tested with all the major endpoint protection products. The code is based on the original code from Microsoft, published at
+
+https://github.com/Microsoft/Windows-classic-samples/blob/master/Samples/WebSecurityCenter/cpp/WscApiSample.cpp
